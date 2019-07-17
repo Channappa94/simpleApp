@@ -31,7 +31,7 @@
                                 </constraints>
                                 <color key="textColor" red="0.38778949870000001" green="0.38778949870000001" blue="0.38778949870000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="20"/>
-                                <textInputTraits key="textInputTraits" keyboardType="numbersAndPunctuation"/>
+                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
                             </textField>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="z6D-rf-sI1">
                                 <rect key="frame" x="20" y="195.5" width="374" height="41.5"/>
